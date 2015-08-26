@@ -1,3 +1,5 @@
+Note: this repository was initialy exported from https://code.google.com/p/word2vec/
+
 Tools for computing distributed representtion of words
 ------------------------------------------------------
 
